@@ -1,0 +1,6 @@
+[submodule "sinabroServer"]
+	path = sinabroServer
+	url = https://github.com/Sinabro-littlebylittle/sinabroServer.git
+[submodule "sinabro"]
+	path = sinabro
+	url = https://github.com/Sinabro-littlebylittle/sinabro.git
